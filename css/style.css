@@ -277,7 +277,7 @@ a:focus {
     transition: none;
 }
 .navbar img {
-    height: 50px; /* Adjust the height as needed */
+    height: 40px; /* Adjust the height as needed */
     width: auto; /* Maintain aspect ratio */
     margin-right: 20px;
 }
